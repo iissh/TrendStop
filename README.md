@@ -14,3 +14,5 @@ TrendStop is a mock user-friendly sneaker re-selling e-store with complete funct
 
 #### Paypal payment integration
 
+#### Highly User-friendly
+The website has no hidden tricks. It is super easy to navigate and has customizable features to always keep the experience fresh.
