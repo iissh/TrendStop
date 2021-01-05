@@ -1,6 +1,6 @@
 # TrendStop
 
-TrendStop is a mock user-friendly sneaker re-selling e-store with complete functionality. This e-commerce website was created using **Django** for the backend and **HTML** and **CSS** for the frontend.
+TrendStop is a mock user-friendly sneaker re-selling e-store with complete functionality. This e-commerce website was created using **Django** for the backend and **HTML**, **Javascript**, and **CSS** for the frontend.
 
 ## How to Visit TrendStop
 1. Visit http://iissh2.pythonanywhere.com/.
