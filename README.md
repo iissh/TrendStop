@@ -8,9 +8,9 @@ TrendStop is a mock user-friendly sneaker re-selling e-store with complete funct
 3. Checkout! ~~this feature is currently disabled as I have no products in stock~~
 
 ## Notable Features
-#### Add and remove items to the cart
+#### Add and remove items to/from the cart and change the quantity
+You can add as many of a particular sneaker as you want or remove it all together. Add items from the store tab and remove them from the cart tab.
 
-#### Change the quantity
 
 #### Paypal payment integration
 This feature has been disabled for the moment, it will be integrated again for the next update of the website.
